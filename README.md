@@ -1,6 +1,6 @@
 # MyColorToImageLibrary
 
 
-This code create UIImage from UIColor.
+This package creates UIImage from UIColor.
 
 
